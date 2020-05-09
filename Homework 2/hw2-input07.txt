@@ -1,0 +1,8 @@
+cd /
+pwd
+cd home/goldsd
+pwd
+ls -o -h -Q
+cd ..
+pwd
+exit

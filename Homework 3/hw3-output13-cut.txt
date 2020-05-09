@@ -1,0 +1,14 @@
+ Solving Sonny's knight's tour problem for a 3x3 board
+ 2 moves possible after move #1; creating threads...
+ Dead end after move #8
+ joined (returned 8)
+ Dead end after move #8
+ joined (returned 8)
+ Best solution(s) found visit 8 squares (out of 9)
+ Dead end boards:
+ > SSS
+   S.S
+   SSS
+ > SSS
+   S.S
+   SSS

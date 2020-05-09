@@ -1,0 +1,5 @@
+cat hw2-input08.txt
+wc hw2-input08.txt
+wc -l hw2-input08.txt
+wc-l hw2-input08.txt
+exit

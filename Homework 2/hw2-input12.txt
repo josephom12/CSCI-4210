@@ -1,0 +1,5 @@
+cat -n hw2-input12.txt
+ls -l /usr/bin/python3 &
+sleep 4
+ps -f | wc -l
+exit

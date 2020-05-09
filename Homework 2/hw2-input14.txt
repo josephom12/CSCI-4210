@@ -1,0 +1,6 @@
+cat cocoapuffs.txt
+cd /home/goldsd
+ls -1 | grep cocoapuffs
+ls -1 | grep -v cocoapuffs
+ps -f | wc -l
+exit

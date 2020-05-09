@@ -1,0 +1,45 @@
+CSCI 4210 OPERATING SYSTEMS -- HOMEWORK 4 TEST CASES
+(v1.1, 8/6/2019)
+
+[TEST CASE #4] 13 POINTS
+TCP Client #1: LOGIN Morty\n
+               WHO\n
+TCP Client #2: LOGIN Rick\n
+               WHO\n
+TCP Client #1: LOGOUT\n
+               LOGIN Beth\n
+   UDP Client: WHO\n
+TCP Client #1: LOGOUT\n
+TCP Client #2: LOGOUT\n
+   UDP Client: WHO\n
+
+
+[TEST CASE #5] 11 POINTS
+TCP Client #1: LOGIN Rick\n
+TCP Client #2: LOGIN Rick\n
+               LOGIN Summer\n
+TCP Client #1: WHO\n
+
+
+[TEST CASE #6] 15 POINTS
+TCP Client #1: LOGIN Rick\n
+               SEND Rick 22\nI'm talking to myself!\n
+TCP Client #2: LOGIN G\n
+TCP Client #3: LOGIN Summer\n
+               SEND Rick 25\nStop talking to yourself!\n
+TCP Client #1: LOGOUT\n
+TCP Client #3: SEND Rick 20\nAre you still there?\n
+               SEND Summer 26\nNow I'm talking to myself!\n
+   UDP Client: WHO\n
+
+[TEST CASE #7] 18 POINTS
+TCP Client #1: LOGIN Rick\n
+               SEND Morty 21\nAre you there, Morty?\n
+TCP Client #2: LOGIN Morty\n
+               WHO\n
+TCP Client #1: SEND Morty 24\nAha, there u are, Morty!\n
+TCP Client #2: SEND Rick 27\nYes, idiot, I'm right here!\n
+               BROADCAST 21\nAaaaaaaaaaaaaaaaaagh!\n
+TCP Client #1: LOGOUT\n
+TCP Client #2: WHO\n
+               LOGOUT\n

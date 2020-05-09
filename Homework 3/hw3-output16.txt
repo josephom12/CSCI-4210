@@ -1,0 +1,64 @@
+THREAD 139637773211456: Solving Sonny's knight's tour problem for a 4x3 board
+THREAD 139637773211456: 2 moves possible after move #1; creating threads...
+THREAD 139637764716288: 2 moves possible after move #2; creating threads...
+THREAD 139637756323584: 2 moves possible after move #4; creating threads...
+THREAD 139637747930880: Dead end after move #6
+THREAD 139637756323584: Thread [139637747930880] joined (returned 6)
+THREAD 139637747930880: 2 moves possible after move #5; creating threads...
+THREAD 139637737342720: Dead end after move #10
+THREAD 139637747930880: Thread [139637737342720] joined (returned 10)
+THREAD 139637737342720: Dead end after move #10
+THREAD 139637747930880: Thread [139637737342720] joined (returned 10)
+THREAD 139637756323584: Thread [139637747930880] joined (returned 10)
+THREAD 139637764716288: Thread [139637756323584] joined (returned 10)
+THREAD 139637756323584: 2 moves possible after move #3; creating threads...
+THREAD 139637747930880: 2 moves possible after move #5; creating threads...
+THREAD 139637737342720: 2 moves possible after move #6; creating threads...
+THREAD 139637728950016: Dead end after move #8
+THREAD 139637737342720: Thread [139637728950016] joined (returned 8)
+THREAD 139637728950016: Dead end after move #7
+THREAD 139637737342720: Thread [139637728950016] joined (returned 7)
+THREAD 139637747930880: Thread [139637737342720] joined (returned 8)
+THREAD 139637737342720: Dead end after move #8
+THREAD 139637747930880: Thread [139637737342720] joined (returned 8)
+THREAD 139637756323584: Thread [139637747930880] joined (returned 8)
+THREAD 139637747930880: 2 moves possible after move #7; creating threads...
+THREAD 139637737342720: 2 moves possible after move #8; creating threads...
+THREAD 139637728950016: Dead end after move #10
+THREAD 139637737342720: Thread [139637728950016] joined (returned 10)
+THREAD 139637728950016: Dead end after move #9
+THREAD 139637737342720: Thread [139637728950016] joined (returned 9)
+THREAD 139637747930880: Thread [139637737342720] joined (returned 10)
+THREAD 139637737342720: Dead end after move #8
+THREAD 139637747930880: Thread [139637737342720] joined (returned 8)
+THREAD 139637756323584: Thread [139637747930880] joined (returned 10)
+THREAD 139637764716288: Thread [139637756323584] joined (returned 10)
+THREAD 139637773211456: Thread [139637764716288] joined (returned 10)
+THREAD 139637764716288: 2 moves possible after move #4; creating threads...
+THREAD 139637756323584: 2 moves possible after move #5; creating threads...
+THREAD 139637747930880: 2 moves possible after move #7; creating threads...
+THREAD 139637737342720: Dead end after move #9
+THREAD 139637747930880: Thread [139637737342720] joined (returned 9)
+THREAD 139637737342720: Dead end after move #10
+THREAD 139637747930880: Thread [139637737342720] joined (returned 10)
+THREAD 139637756323584: Thread [139637747930880] joined (returned 10)
+THREAD 139637747930880: 2 moves possible after move #9; creating threads...
+THREAD 139637737342720: Dead end after move #10
+THREAD 139637747930880: Thread [139637737342720] joined (returned 10)
+THREAD 139637737342720: Dead end after move #11
+THREAD 139637747930880: Thread [139637737342720] joined (returned 11)
+THREAD 139637756323584: Thread [139637747930880] joined (returned 11)
+THREAD 139637764716288: Thread [139637756323584] joined (returned 11)
+THREAD 139637756323584: 2 moves possible after move #7; creating threads...
+THREAD 139637747930880: Sonny found a full knight's tour!
+THREAD 139637756323584: Thread [139637747930880] joined (returned 12)
+THREAD 139637747930880: Sonny found a full knight's tour!
+THREAD 139637756323584: Thread [139637747930880] joined (returned 12)
+THREAD 139637764716288: Thread [139637756323584] joined (returned 12)
+THREAD 139637773211456: Thread [139637764716288] joined (returned 12)
+THREAD 139637773211456: Best solution(s) found visit 12 squares (out of 12)
+THREAD 139637773211456: Dead end boards:
+THREAD 139637773211456: > S.S
+THREAD 139637773211456:   SSS
+THREAD 139637773211456:   SSS
+THREAD 139637773211456:   SSS

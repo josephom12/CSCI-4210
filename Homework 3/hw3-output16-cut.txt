@@ -1,0 +1,64 @@
+ Solving Sonny's knight's tour problem for a 4x3 board
+ 2 moves possible after move #1; creating threads...
+ 2 moves possible after move #2; creating threads...
+ 2 moves possible after move #4; creating threads...
+ Dead end after move #6
+ joined (returned 6)
+ 2 moves possible after move #5; creating threads...
+ Dead end after move #10
+ joined (returned 10)
+ Dead end after move #10
+ joined (returned 10)
+ joined (returned 10)
+ joined (returned 10)
+ 2 moves possible after move #3; creating threads...
+ 2 moves possible after move #5; creating threads...
+ 2 moves possible after move #6; creating threads...
+ Dead end after move #8
+ joined (returned 8)
+ Dead end after move #7
+ joined (returned 7)
+ joined (returned 8)
+ Dead end after move #8
+ joined (returned 8)
+ joined (returned 8)
+ 2 moves possible after move #7; creating threads...
+ 2 moves possible after move #8; creating threads...
+ Dead end after move #10
+ joined (returned 10)
+ Dead end after move #9
+ joined (returned 9)
+ joined (returned 10)
+ Dead end after move #8
+ joined (returned 8)
+ joined (returned 10)
+ joined (returned 10)
+ joined (returned 10)
+ 2 moves possible after move #4; creating threads...
+ 2 moves possible after move #5; creating threads...
+ 2 moves possible after move #7; creating threads...
+ Dead end after move #9
+ joined (returned 9)
+ Dead end after move #10
+ joined (returned 10)
+ joined (returned 10)
+ 2 moves possible after move #9; creating threads...
+ Dead end after move #10
+ joined (returned 10)
+ Dead end after move #11
+ joined (returned 11)
+ joined (returned 11)
+ joined (returned 11)
+ 2 moves possible after move #7; creating threads...
+ Sonny found a full knight's tour!
+ joined (returned 12)
+ Sonny found a full knight's tour!
+ joined (returned 12)
+ joined (returned 12)
+ joined (returned 12)
+ Best solution(s) found visit 12 squares (out of 12)
+ Dead end boards:
+ > S.S
+   SSS
+   SSS
+   SSS
